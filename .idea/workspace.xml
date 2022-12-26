@@ -2,22 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6969aed5-c976-4236-a79d-9456b74f7cb7" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Leetcode129.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Leetcode129BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Leetcode199.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Leetcode322.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Leetcode35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Leetcode389.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/SHA256.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Soluation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Leetcode144.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Leetcode145.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Leetcode257.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <list id="767f26b0-1f7a-4017-9b58-5aff526f4610" name="Changes by Oscar" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Leetcode40.java" afterDir="false" />
-    </list>
+    <list id="767f26b0-1f7a-4017-9b58-5aff526f4610" name="Changes by Oscar" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -180,6 +170,7 @@
       <workItem from="1666447319117" duration="21405000" />
       <workItem from="1669374845536" duration="1311000" />
       <workItem from="1669549741856" duration="12000" />
+      <workItem from="1672070468672" duration="1536000" />
     </task>
     <servers />
   </component>
